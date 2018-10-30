@@ -3,9 +3,10 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <FrameLayout
-        android:id="@+id/fragment_container"
+    <Button
+        android:id="@+id/share_defeat"
+        android:text="Share defeat"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"/>
+        android:layout_height="wrap_content" />
 
 </android.support.constraint.ConstraintLayout>

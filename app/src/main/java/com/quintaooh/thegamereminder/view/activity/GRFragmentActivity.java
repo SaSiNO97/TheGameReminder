@@ -6,7 +6,6 @@ import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
-import com.quintaooh.thegamereminder.R;
 
 /**
  * Created by riccardo on 30/10/2018.
